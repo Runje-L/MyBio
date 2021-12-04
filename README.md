@@ -7,7 +7,7 @@
 - :chart_with_upwards_trend: My hobbies are blockchain technology, NFT and investing
 - :dollar: Always ready for cooperation and business
 
-## Languages:
+## Languages :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -19,10 +19,14 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
-</br>
+<br>
 
-## Tools:
+## Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br>
+
+<img align="left" alt="Runje-L's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Runje-L&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runje-L&layout=compact&count_private=true)](https://github.com/Runje-L/github-readme-stats)

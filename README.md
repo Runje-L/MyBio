@@ -1,6 +1,6 @@
 ## Hello World ! :earth_africa: 👋
 
-### My Name is Luka, nice to meet you :smile:
+### My Name is Luka, welcome to my profile :smile:
 
 - :school: I’m currently learning everything :man_student:
 - :handshake: I’m looking to collaborate with other creators

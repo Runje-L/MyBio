@@ -1,1 +1,1 @@
-## Hello World ! :earth_africa:
+## Hello World ! :earth_africa: 👋

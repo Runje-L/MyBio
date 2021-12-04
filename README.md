@@ -1,4 +1,4 @@
-<h1> Hello World ! :earth_africa: 👋 </h1>
+## Hello World ! :earth_africa: 👋
 
 ### My Name is Luka, welcome to my profile :smile:
 

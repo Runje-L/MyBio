@@ -29,4 +29,4 @@
 
 <br>
 
-<img align="left" alt="Runje-L's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Runje-L&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runje-L&layout=compact&count_private=true)](https://github.com/Runje-L/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runje-L&layout=compact&count_private=true)](https://github.com/Runje-L/github-readme-stats)

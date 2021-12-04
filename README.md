@@ -1,4 +1,4 @@
-## Hello World ! :earth_africa: 👋
+# Hello World ! :earth_africa: 👋
 
 ### My Name is Luka, welcome to my profile :smile:
 
